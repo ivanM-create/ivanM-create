@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Saint-Petersburg</h3>
 <img align="right" alt="codding gif" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" />
 
-- write me a mail [mikhaylyutin.ivan@gmail.com](mikhaylyutin.ivan@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ivan-mihaylyutin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan-mihaylyutin" height="30" width="40" /></a>
