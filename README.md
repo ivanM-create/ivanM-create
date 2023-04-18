@@ -1,3 +1,4 @@
+<img align="top" alt="codding gif" width="1200" height="300" src="https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM" />
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate Frontend Developer from Saint-Petersburg</h3>
 <img align="right" alt="codding gif" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" />
