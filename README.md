@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Saint-Petersburg</h3>
 <img align="right" alt="codding gif" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" />
 
-- write me a mail [mikhaylyutin.ivan@gmail.com](mikhaylyutin.ivan@gmail.com)
-
 - text me a message **mikhaylyutin.ivan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
